@@ -1,94 +1,112 @@
-👋 Hi, I'm Abdelrahman Noyer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;System+Architect;Multitenant+Applications+Specialist;12+Completed+Systems+%7C+3+Mobile+Apps+%7C+30+Websites;Building+High-Performance+and+Scalable+Solutions" /> </p>
-🎨 About Me
+<p align="center">
+  <img src="https://i.ibb.co/M2t7s5N/particles-header.gif" width="100%" />
+</p>
 
-I am a Full-Stack Developer with strong expertise in backend, frontend, mobile, and system architecture.
-I have built 12 complete systems, 3 mobile apps, and 30+ websites for different business sectors using modern technologies and scalable architectures.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E8FF&center=true&vCenter=true&width=1000&lines=Abdelrahman+Noyer;Full-Stack+Developer;System+Architect;Multitenant+SaaS+Expert;12+Systems+%7C+3+Mobile+Apps+%7C+30+Websites" />
+</p>
 
-🎯 Tech Stack (Colored & Categorized)
-🧱 Backend
+---
 
+# 🌐 About Me  
+Experienced **Full-Stack Developer** specialized in building scalable systems,  
+multitenant SaaS platforms, mobile applications, and enterprise solutions.  
+Delivered **12 full systems**, **3 mobile apps**, and **30+ professional websites**.  
+Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.  
 
+---
 
+# 🧠 Animated Skill Bars
 
+![HTML](https://progress-bar.dev/95/?title=HTML&width=500&color=00E8FF)
+![CSS](https://progress-bar.dev/90/?title=CSS&width=500&color=FF00FF)
+![JavaScript](https://progress-bar.dev/85/?title=JavaScript&width=500&color=FFA500)
+![PHP](https://progress-bar.dev/90/?title=PHP&width=500&color=7377AD)
+![Laravel](https://progress-bar.dev/92/?title=Laravel&width=500&color=E6362C)
+![React](https://progress-bar.dev/88/?title=React&width=500&color=00C9FF)
+![NodeJS](https://progress-bar.dev/87/?title=NodeJS&width=500&color=4CAF50)
+![Flutter](https://progress-bar.dev/80/?title=Flutter&width=500&color=027DFD)
 
+---
 
+# 🔥 GitHub Streak Flames
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
+---
 
+# 💎 Glassmorphism Featured Projects
 
+<div align="center">
+  <img src="https://img.shields.io/badge/ERP_System-Glass-00E8FF?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/LMS_Platform-Glass-FF00FF?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM_System-Glass-00FFA2?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/POS_System-Glass-FFA500?style=for-the-badge&logo=shopify&logoColor=white" />
+</div>
 
+---
 
+# 🎨 Animated Icons
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</p>
 
-🗄️ Databases
+---
 
+# 🏆 Projects Overview
 
+- 🔧 **12 Completed Systems** (ERP, CRM, POS, LMS, SaaS)
+- 📱 **3 Mobile Apps** (Flutter)
+- 🌐 **30+ Websites**
+- 💳 **Payment Integrations** (Paymob, PayPal, Stripe…)
+- 🔌 **WhatsApp API**
+- 📩 **MailTrap + SMTP**
+- 🛠️ Advanced API Architecture  
+- 🏗️ Clean, scalable system design  
 
+---
 
+# 🌀 Premium Highlight (Glass Effect + Gradient Border)
 
+<div style="
+  border: 3px solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(45deg, #00E8FF, #FF00FF, #00FFA2);
+  padding: 20px;
+  border-radius: 20px;
+  backdrop-filter: blur(12px);
+">
+  <h2 align="center">🚀 Multitenant SaaS Architect</h2>
+  <p align="center">Expert at designing isolated, scalable tenant-based systems for large-scale production.</p>
+</div>
 
-🎨 Frontend
+---
 
+# 📊 GitHub Stats (Glow Style)
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&title_color=00E8FF&icon_color=FF00FF" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" />
+</p>
 
+---
 
+# 📫 Contact Me
 
+- 📧 Email: e.anoyer@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/anoyer/  
 
+---
 
+<p align="center">
+  <img src="https://i.ibb.co/M2t7s5N/particles-header.gif" width="100%" />
+</p>
 
-📱 Mobile
-
-🔌 Integrations
-
-Payment Gateways
-
-WhatsApp API
-
-MailTrap
-
-SMTP / Email Sending
-
-Cloud Hosting / Deployments
-
-🧩 Projects Summary
-✔ 12 Completed Systems
-✔ 3 Mobile Applications
-✔ 30+ Websites Delivered
-🗂️ Featured Projects (with logos)
-🧾 ERP System
-<img src="https://cdn-icons-png.flaticon.com/512/2620/2620979.png" width="60" />
-
-Complete ERP covering HR, Finance, Inventory, CRM, Sales, and Permissions.
-
-🎓 LMS – Learning Management System
-<img src="https://cdn-icons-png.flaticon.com/512/4228/4228581.png" width="60" />
-
-Advanced LMS with quizzes, exams, certificates & multi-role dashboards.
-
-💼 CRM System
-<img src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" width="60" />
-
-Lead management, communication tools, pipelines, reporting & automation.
-
-💳 Payment Integrated Projects
-<img src="https://cdn-icons-png.flaticon.com/512/833/833524.png" width="60" />
-
-Seamless online payments, invoices, and transaction tracking.
-
-🏪 POS System
-<img src="https://cdn-icons-png.flaticon.com/512/1040/1040230.png" width="60" />
-
-POS for retail, restaurants, inventory & realtime sync.
-
-🏢 Multitenant SaaS Platforms
-<img src="https://cdn-icons-png.flaticon.com/512/4230/4230865.png" width="60" />
-
-Supporting isolated tenants, dynamic themes, super-admin control panel.
-
-📊 GitHub Stats (Custom Color Theme)
-<p align="center"> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&title_color=00C9FF&icon_color=00C9FF" /> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&title_color=00C9FF" /> </p>
-📫 Contact
-
-📧 Email: e.anoyer@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/anoyer
