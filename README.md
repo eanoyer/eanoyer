@@ -9,87 +9,20 @@
 ---
 
 # 🌐 About Me  
-Experienced **Full-Stack Developer** specialized in building scalable systems,  
-multitenant SaaS platforms, mobile applications, and enterprise solutions.  
-Delivered **12 full systems**, **3 mobile apps**, and **30+ professional websites**.  
-Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.  
+Experienced **Full-Stack Developer** specialized in building scalable systems, multitenant SaaS platforms, mobile applications, and enterprise solutions.Delivered **12 full systems**, **3 mobile apps**, and **30+ professional websites**. Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.  
 
 ---
 
 # 🧠 Animated Skill Bars
 
-<!-- HTML -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#e66902" rx="6">
-    <animate attributeName="width" from="0" to="475" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">HTML — 95%</text>
-</svg>
-
-<!-- CSS -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#FF00FF" rx="6">
-    <animate attributeName="width" from="0" to="450" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">CSS — 90%</text>
-</svg>
-
-<!-- JavaScript -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#FFA500" rx="6">
-    <animate attributeName="width" from="0" to="425" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">JavaScript — 85%</text>
-</svg>
-
-<!-- PHP -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#7377AD" rx="6">
-    <animate attributeName="width" from="0" to="450" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">PHP — 90%</text>
-</svg>
-
-<!-- Laravel -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#E6362C" rx="6">
-    <animate attributeName="width" from="0" to="460" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">Laravel — 92%</text>
-</svg>
-
-<!-- React -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#00C9FF" rx="6">
-    <animate attributeName="width" from="0" to="440" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">React — 88%</text>
-</svg>
-
-<!-- NodeJS -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#4CAF50" rx="6">
-    <animate attributeName="width" from="0" to="435" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">NodeJS — 87%</text>
-</svg>
-
-<!-- Flutter -->
-<svg width="500" height="25">
-  <rect width="500" height="25" fill="#111" rx="6"></rect>
-  <rect width="0" height="25" fill="#027DFD" rx="6">
-    <animate attributeName="width" from="0" to="400" dur="1.5s" fill="freeze" />
-  </rect>
-  <text x="10" y="17" fill="#fff" font-size="14">Flutter — 80%</text>
-</svg>
-
+![HTML](https://img.shields.io/badge/HTML-95%25-00E8FF?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-90%25-FF00FF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-FFA500?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-90%25-7377AD?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-92%25-E6362C?style=for-the-badge)
+![React](https://img.shields.io/badge/React-88%25-00C9FF?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/NodeJS-87%25-4CAF50?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-80%25-027DFD?style=for-the-badge)
 
 ---
 
@@ -158,7 +91,7 @@ Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eanoyer&show_icons=true&theme=react&title_color=e66902&icon_color=FF00FF" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eanoyer&layout=compact&theme=react" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eanoyer&theme=react" />
 </p>
 
 ---
