@@ -27,6 +27,22 @@ Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.
 ![NodeJS](https://progress-bar.dev/87/?title=NodeJS&width=500&color=4CAF50)
 ![Flutter](https://progress-bar.dev/80/?title=Flutter&width=500&color=027DFD)
 
+
+<svg width="500" height="25">
+  <defs>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E8FF"/>
+      <stop offset="100%" stop-color="#0051FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="25" fill="#0d1117" rx="6"></rect>
+  <rect width="0" height="25" fill="url(#glow1)" rx="6">
+    <animate attributeName="width" from="0" to="475" dur="1.8s" fill="freeze" />
+  </rect>
+  <text x="10" y="17" fill="#fff" font-size="14">HTML — 95%</text>
+</svg>
+
 ---
 
 # 🔥 GitHub Streak Flames
@@ -93,8 +109,8 @@ Integrations: Payment Gateways, WhatsApp API, MailTrap, SMTP & more.
 # 📊 GitHub Stats (Glow Style)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&title_color=00E8FF&icon_color=FF00FF" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eanoyer&show_icons=true&theme=react&title_color=00E8FF&icon_color=FF00FF" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eanoyer&layout=compact&theme=react" />
 </p>
 
 ---
